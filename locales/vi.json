@@ -21,6 +21,61 @@
       "description": "Chính sách bảo mật của CÔNG TY CỔ PHẦN PHÁT TRIỂN THƯƠNG MẠI VÀ DỊCH VỤ ĐỒNG TIẾN - Cam kết bảo vệ thông tin khách hàng"
     }
   },
+  "privacyPage": {
+    "title": "Chính sách bảo mật ứng dụng di động DONG TIEN HOTEL",
+    "effectiveDate": "Ngày có hiệu lực: 04 tháng 01 năm 2026",
+    "intro": "Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin của bạn khi bạn sử dụng ứng dụng di động DONG TIEN HOTEL (\"Ứng dụng\").",
+    "sections": [
+      {
+        "title": "1. Thông tin chúng tôi thu thập",
+        "content": "Tùy thuộc vào cách bạn sử dụng Ứng dụng, chúng tôi có thể thu thập các loại thông tin sau:\n- Thông tin tài khoản và liên hệ (nếu có), chẳng hạn như tên, số điện thoại, địa chỉ email và thông tin công ty.\n- Thông tin đặt phòng và dịch vụ, bao gồm loại phòng, ngày nhận/trả phòng, số lượng khách, yêu cầu đặc biệt và chi tiết thanh toán.\n- Dữ liệu sử dụng, chẳng hạn như các tính năng bạn sử dụng, các màn hình ứng dụng bạn truy cập và thời gian tương tác.\n- Thông tin thiết bị và kỹ thuật, chẳng hạn như mẫu thiết bị, phiên bản hệ điều hành, ngôn ngữ, vị trí ước tính (nếu bạn cấp quyền), địa chỉ IP và phiên bản ứng dụng."
+      },
+      {
+        "title": "2. Cách chúng tôi sử dụng thông tin của bạn",
+        "content": "Chúng tôi sử dụng thông tin thu thập được để:\n- Cung cấp và vận hành Ứng dụng cũng như các dịch vụ lưu trú và khách sạn của chúng tôi.\n- Xử lý và quản lý việc đặt phòng, yêu cầu dịch vụ và các yêu cầu liên quan đến lưu trú.\n- Liên lạc với bạn về việc đặt phòng, yêu cầu hỗ trợ hoặc các thông báo quan trọng.\n- Cải thiện hiệu suất Ứng dụng, trải nghiệm người dùng và chất lượng dịch vụ.\n- Đảm bảo an ninh cho hệ thống của chúng tôi và ngăn ngừa gian lận hoặc lạm dụng.\n- Tuân thủ các nghĩa vụ pháp lý theo luật pháp và quy định hiện hành."
+      },
+      {
+        "title": "3. Cơ sở pháp lý để xử lý",
+        "content": "Chúng tôi xử lý dữ liệu cá nhân của bạn trên một hoặc nhiều cơ sở pháp lý sau:\n- Sự đồng ý của bạn, khi bạn cấp các quyền cụ thể hoặc đồng ý với việc xử lý nhất định.\n- Sự cần thiết của hợp đồng, để cung cấp dịch vụ đặt phòng và dịch vụ khách hàng mà bạn yêu cầu.\n- Lợi ích hợp pháp, chẳng hạn như cải thiện Ứng dụng, ngăn ngừa lạm dụng và đảm bảo an ninh.\n- Nghĩa vụ pháp lý, khi chúng tôi được yêu cầu lưu giữ hoặc tiết lộ dữ liệu theo luật hiện hành."
+      },
+      {
+        "title": "4. Chia sẻ và tiết lộ thông tin",
+        "content": "Chúng tôi không bán dữ liệu cá nhân của bạn. Chúng tôi có thể chia sẻ thông tin của bạn trong các trường hợp sau:\n- Với các nhóm nội bộ và đối tác được ủy quyền của chúng tôi chỉ nhằm mục đích cung cấp và hỗ trợ các dịch vụ lưu trú và vận hành khách sạn.\n- Với các nhà cung cấp dịch vụ bên thứ ba hỗ trợ chúng tôi về phân tích, lưu trữ hoặc liên lạc (các nhà cung cấp này được yêu cầu bảo vệ dữ liệu của bạn và chỉ sử dụng dữ liệu đó cho mục đích đã thỏa thuận).\n- Khi luật pháp, quy định, quy trình pháp lý hoặc yêu cầu của chính phủ yêu cầu.\n- Để bảo vệ quyền, tài sản hoặc sự an toàn của DONG TIEN HOTEL, khách hàng của chúng tôi hoặc công chúng."
+      },
+      {
+        "title": "5. Dịch vụ bên thứ ba và SDK",
+        "content": "Ứng dụng có thể tích hợp các dịch vụ bên thứ ba (ví dụ: phân tích, báo cáo lỗi hoặc thông báo đẩy). Các dịch vụ này có thể thu thập một số thông tin nhất định được gửi từ thiết bị của bạn. Chúng tôi khuyến khích bạn xem lại chính sách bảo mật của các bên thứ ba này để biết thêm chi tiết về thực tiễn dữ liệu của họ."
+      },
+      {
+        "title": "6. Lưu giữ dữ liệu",
+        "content": "Chúng tôi chỉ lưu giữ dữ liệu cá nhân của bạn trong thời gian cần thiết để thực hiện các mục đích được mô tả trong Chính sách bảo mật này, trừ khi thời gian lưu giữ dài hơn được luật pháp yêu cầu hoặc cho phép (ví dụ: quy định kế toán hoặc thuế)."
+      },
+      {
+        "title": "7. Quyền và lựa chọn của bạn",
+        "content": "Theo luật hiện hành, bạn có thể có quyền:\n- Truy cập dữ liệu cá nhân mà chúng tôi nắm giữ về bạn.\n- Yêu cầu sửa dữ liệu không chính xác hoặc không đầy đủ.\n- Yêu cầu xóa dữ liệu của bạn trong một số trường hợp nhất định.\n- Phản đối hoặc hạn chế một số loại xử lý.\n- Rút lại sự đồng ý của bạn bất cứ lúc nào (điều này sẽ không ảnh hưởng đến việc xử lý đã được thực hiện dựa trên sự đồng ý trước đó của bạn).\nBạn có thể thực hiện các quyền này bằng cách liên hệ với chúng tôi bằng các chi tiết trong phần \"Liên hệ với chúng tôi\" bên dưới."
+      },
+      {
+        "title": "8. Quyền riêng tư của trẻ em",
+        "content": "Ứng dụng không hướng đến trẻ em dưới 16 tuổi. Chúng tôi không cố ý thu thập dữ liệu cá nhân từ trẻ em dưới 16 tuổi. Nếu bạn tin rằng chúng tôi đã thu thập dữ liệu cá nhân từ một đứa trẻ, vui lòng liên hệ với chúng tôi để chúng tôi có thể thực hiện hành động thích hợp."
+      },
+      {
+        "title": "9. An ninh dữ liệu",
+        "content": "Chúng tôi thực hiện các biện pháp kỹ thuật và tổ chức thích hợp để bảo vệ dữ liệu cá nhân của bạn khỏi bị hủy hoại vô tình hoặc bất hợp pháp, mất mát, thay đổi, tiết lộ hoặc truy cập trái phép. Tuy nhiên, không có phương thức truyền tải hoặc lưu trữ nào là an toàn tuyệt đối và chúng tôi không thể đảm bảo an ninh tuyệt đối."
+      },
+      {
+        "title": "10. Chuyển giao quốc tế",
+        "content": "Các hoạt động chính của chúng tôi có trụ sở tại Việt Nam. Nếu dữ liệu của bạn được chuyển đến hoặc lưu trữ ở một quốc gia khác, chúng tôi sẽ đảm bảo rằng các biện pháp bảo vệ thích hợp được áp dụng và việc chuyển giao đó tuân thủ luật bảo vệ dữ liệu hiện hành."
+      },
+      {
+        "title": "11. Thay đổi đối với Chính sách bảo mật này",
+        "content": "Chúng tôi có thể cập nhật Chính sách bảo mật này theo thời gian, ví dụ để phản ánh các thay đổi trong Ứng dụng, yêu cầu pháp lý hoặc thực tiễn dữ liệu của chúng tôi. Phiên bản cập nhật sẽ được đăng tại URL này và \"Ngày có hiệu lực\" sẽ được sửa đổi tương ứng. Chúng tôi khuyên bạn nên xem lại Chính sách bảo mật này định kỳ."
+      },
+      {
+        "title": "12. Liên hệ với chúng tôi",
+        "content": "Nếu bạn có bất kỳ câu hỏi, yêu cầu hoặc khiếu nại nào liên quan đến Chính sách bảo mật này hoặc thực tiễn bảo vệ dữ liệu của chúng tôi, vui lòng liên hệ với chúng tôi tại:\n\n**CÔNG TY CỔ PHẦN PHÁT TRIỂN THƯƠNG MẠI VÀ DỊCH VỤ ĐỒNG TIẾN**\nĐịa chỉ đăng ký: Số 66 đường Xuân Diệu, Phường Tây Hồ, TP Hà Nội, Việt Nam\nĐiện thoại: 0917980188\nEmail: info@dongtienhotel.store\nWebsite: https://dongtienhotel.store"
+      }
+    ]
+  },
   "common": {
     "logo": "DONG TIEN HOTEL",
     "tagline": "Tận Tâm - Chất Lượng - Tiện Nghi",
