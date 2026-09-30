@@ -1,3 +1,10 @@
+#update 30/9/2026
+#bigo
+bigo.sg,bn9k7mf2p4,DIRECT
+yieldmo.com, 4159765376676077684, RESELLER
+openx.com, 609225366, RESELLER, 6a698e2ec38604c6
+omni-dex.io, 100108, RESELLER
+insticator.com, 4022291c-df72-416d-98ba-ab42fb0696d3, RESELLER, b3511ffcafb23a32
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
