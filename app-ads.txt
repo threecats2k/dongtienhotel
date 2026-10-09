@@ -3878,3 +3878,42 @@ openx.com, 609225366, RESELLER, 6a698e2ec38604c6
 omni-dex.io, 100108, RESELLER
 insticator.com, 4022291c-df72-416d-98ba-ab42fb0696d3, RESELLER, b3511ffcafb23a32
 adingo.jp, 31595, RESELLER
+#update 9/10/2026
+ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, RESELLER
+media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
+media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
+improvedigital.com, 2883, RESELLER
+improvedigital.com, 2884, RESELLER
+bidmachine.io, 1592, RESELLER
+richaudience.com, x1vKpaGD9I, RESELLER
+aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b
+themediagrid.com, IOSRAB, RESELLER, 9fac4a4a87c2a44f
+blueseasx.com, 7138154, RESELLER, 7998eac5087f6110
+bid-matrix.com, a9292d812c7da858, RESELLER
+jambojar.com, 2026J77, RESELLER
+adorphic.com, 4065, RESELLER
+nativo.com, 6178, RESELLER, 59521ca7cc5e9fee
+onetag.com, 9543f34076d707c, RESELLER
+vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
+nativo.com, 6167, RESELLER, 59521ca7cc5e9fee
+adagio.io, 1639, RESELLER
+media.net, 8CAXEGFDP, RESELLER
+pubmatic.com, 166063, RESELLER, 5d62403b186f2ace
+bigo.sg, t8wi09riwv, RESELLER
+smaato.com, 1100060441, RESELLER, 07bcf65f187117b4
+improvedigital.com, 2754, RESELLER
+pubnative.net, 1018245, RESELLER, d641df8625486a7b
+blasto.ai, 935, RESELLER, 7e936b1feafdaa61
+advisermedia.co, 70576, RESELLER
+azurebid.com, 4603949149, RESELLER
+theaudiencestreet.com, 92311, RESELLER
+prado.co, 15633, RESELLER
+adnimation.com, 20250074, RESELLER
+bidtox.com, 38299, RESELLER
+mobimight.com, 75764, RESELLER
+richaudience.com, H5gc9Aa862, RESELLER
+openbid.biz, 105256, RESELLER
+bidmatrixdsp.com, a9292d812c7da858, RESELLER
+gocarty.net, 506, RESELLER
+growone.sg, 108b7d5328f7442cd7e19c4463d7ff8d, RESELLER
+pubnative.net, 1018294, RESELLER, d641df8625486a7b
