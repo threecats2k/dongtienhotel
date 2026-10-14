@@ -4630,3 +4630,12 @@ tubia.com, 40104, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 video.unrulymedia.com, 270404831, RESELLER
 zmaticoo.com, 5135375, RESELLER
+#update 14/10/2026
+chocolateplatform.com, 23085, RESELLER, 49a66ce31a704197
+chocolateplatform.com, 23085, DIRECT, 49a66ce31a704197
+improvedigital.com, 2919, RESELLER
+betweendigital.com, 44977, DIRECT
+sharethrough.com, 4395, RESELLER, d53b998a7bd4ecd2
+eskimi.com, 2020001193, RESELLER
+richaudience.com, MhQRvL255v, RESELLER
+lijit.com, 550620-eb, DIRECT, fafdf38b16bf6b2b
