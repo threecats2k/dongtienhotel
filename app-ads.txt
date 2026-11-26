@@ -6265,3 +6265,9 @@ rubiconproject.com, 28945, RESELLER, 0bfd66d529a55807
 toponad.com, 16aec6880be2e7, RESELLER
 pubnative.net, 1018435, RESELLER, d641df8625486a7b
 appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
+#update 26/11/2026
+adwmg.com, 101258, RESELLER, c9688a22012618e7
+smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
+adingo.jp, 34964, RESELLER
+pubnative.net, 1018439, RESELLER, d641df8625486a7b
+smaato.com, 1100060686, RESELLER, 07bcf65f187117b4
